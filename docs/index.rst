@@ -1,7 +1,13 @@
 iolo.com Login | Iolo My Account | System Mechanic Login for Product Subscription and Account Access
 =====================================================================================================
 
-If you're using Iolo products such as **System Mechanic**, you’re likely looking for a simple and effective way to manage your subscription, activate licenses, and access customer support. The best way to handle all of this is through the **Iolo my Account Login** portal, located on the official website: `https://www.iolo.com`.
+If you're using Iolo products such as **System Mechanic**, you’re likely looking for a simple and effective way to manage your subscription, activate licenses, and access customer support. The best way to handle all of this is through the Iolo my Account Login portal, located on the official website: https://www.iolo.com.
+
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
+   </div>
 
 Whether you need to renew your subscription, download the latest version of System Mechanic, or manage your activation keys, the **System Mechanic Login** page is your centralized dashboard.
 
